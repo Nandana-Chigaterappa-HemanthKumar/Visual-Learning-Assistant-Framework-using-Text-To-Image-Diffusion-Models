@@ -25,7 +25,7 @@
 ## Project Structure  
 
 ```text
-Visual-Learning-Assistant-Framework/
+Visual-Learning-Assistant-Framework-using-Text-To-Image-Diffusion-Models/
 ├── Dataset/                      # Data cleaning, preprocessing
 ├── Merging_AI2D_ScienceQA2/      # Dataset merging and preparation
 ├── VAE_Implementation/           # Domain-specific VAE fine-tuning
