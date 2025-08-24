@@ -33,3 +33,7 @@ Visual-Learning-Assistant-Framework-using-Text-To-Image-Diffusion-Models/
 ├── Inference/                    # Model inference and generation scripts
 ├── Results/                      # Evaluation metrics, visual outputs, qualitative results
 ├── README.md                     # Project documentation
+
+## License
+This project is for academic use only.
+
