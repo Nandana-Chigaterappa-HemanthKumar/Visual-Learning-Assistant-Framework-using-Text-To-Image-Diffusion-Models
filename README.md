@@ -24,8 +24,8 @@ This system enables efficient inference on a single NVIDIA RTX 4090 GPU and supp
 * Data Handling: Torchvision, NumPy, Pandas, Matplotlib
 
 ## Datasets:
-AI2D (4k+ annotated educational diagrams)
-ScienceQA (21k+ diagram–question–answer pairs)
+* AI2D (4k+ annotated educational diagrams)
+* ScienceQA (21k+ diagram–question–answer pairs)
 
 ## Project Structure
 ├── data/                    # Processed datasets & annotations
