@@ -3,7 +3,7 @@
 ## Visual Learning Assistant Framework
 **Text-to-Image Latent Diffusion Model for Educational Diagrams**
 
-## Overview
+## 📌 Overview
 This project presents a specialized Latent Diffusion Model (LDM) pipeline designed to generate high-fidelity educational diagrams directly from text prompts. Unlike general-purpose diffusion models (e.g., Stable Diffusion), our lightweight approach is fine-tuned on structured educational datasets, producing curriculum-aligned, semantically accurate visuals to support learning and teaching.
 Built using PyTorch and Hugging Face Diffusers, the framework integrates:
 Fine-tuned Variational Autoencoder (VAE) for domain-specific latent representations
@@ -22,10 +22,7 @@ This system enables efficient inference on a single NVIDIA RTX 4090 GPU and supp
 * Frameworks: PyTorch, Hugging Face Diffusers
 * GPU: NVIDIA RTX 4090 (24GB VRAM)
 * Data Handling: Torchvision, NumPy, Pandas, Matplotlib
-
-## Datasets:
-* AI2D (4k+ annotated educational diagrams)
-* ScienceQA (21k+ diagram–question–answer pairs)
+* Datasets: AI2D (4k+ annotated educational diagrams) & ScienceQA (21k+ diagram–question–answer pairs)
 
 ## 📂 Project Structure  
 
@@ -37,6 +34,4 @@ Visual-Learning-Assistant-Framework/
 ├── LDM/                          # Latent Diffusion Model implementation
 ├── Inference/                    # Model inference and generation scripts
 ├── Results/                      # Evaluation metrics, visual outputs, qualitative results
-├── requirements.txt              # Python dependencies
 ├── README.md                     # Project documentation
-└── LICENSE                       # License file
