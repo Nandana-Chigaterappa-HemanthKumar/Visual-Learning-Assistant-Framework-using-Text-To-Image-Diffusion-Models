@@ -27,13 +27,16 @@ This system enables efficient inference on a single NVIDIA RTX 4090 GPU and supp
 * AI2D (4k+ annotated educational diagrams)
 * ScienceQA (21k+ diagram–question–answer pairs)
 
-## Project Structure/
-├── Dataset/                         # Data cleaning, preprocessing
-├── Merging_AI2D_ScienceQA2/         # Dataset merging and preparation
-├── VAE_Implementation/              # Domain-specific VAE fine-tuning
-├── LDM/                             # Latent Diffusion Model implementation
-├── Inference/                       # Model inference and generation scripts
-├── Results/                         # Evaluation metrics, visual outputs, qualitative results
-├── requirements.txt                 # Python dependencies
-├── README.md                        # Project documentation
-└── LICENSE                          # License file
+## 📂 Project Structure  
+
+```text
+Visual-Learning-Assistant-Framework/
+├── Dataset/                      # Data cleaning, preprocessing
+├── Merging_AI2D_ScienceQA2/      # Dataset merging and preparation
+├── VAE_Implementation/           # Domain-specific VAE fine-tuning
+├── LDM/                          # Latent Diffusion Model implementation
+├── Inference/                    # Model inference and generation scripts
+├── Results/                      # Evaluation metrics, visual outputs, qualitative results
+├── requirements.txt              # Python dependencies
+├── README.md                     # Project documentation
+└── LICENSE                       # License file
