@@ -28,7 +28,7 @@
 Visual-Learning-Assistant-Framework-using-Text-To-Image-Diffusion-Models/
 ├── Dataset/                      # Data cleaning, preprocessing
 ├── Merging_AI2D_ScienceQA2/      # Dataset merging and preparation
-├── VAE_Implementation/           # Domain-specific VAE fine-tuning
+├── VAE Implementation/           # Domain-specific VAE fine-tuning
 ├── LDM/                          # Latent Diffusion Model implementation
 ├── Inference/                    # Model inference and generation scripts
 ├── Results/                      # Evaluation metrics, visual outputs, qualitative results
